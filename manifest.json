@@ -2,7 +2,7 @@
   "theme_color": "#000000",
   "background_color": "#ffffff",
   "display": "fullscreen",
-  "start_url": "/Webapp/?home=true",
+  "start_url": "/Webapp/index.html",
   "name": "NutriWISE",
   "short_name": "NW",
   "icons": [
